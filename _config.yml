@@ -18,7 +18,7 @@ defaults:
       layout: "course_page"
 
 prose:
-  media: img
+  media: img/Kitchwa.png
   ignore:
     - /_includes
     - /_layouts
