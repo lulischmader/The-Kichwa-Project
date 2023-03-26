@@ -18,7 +18,7 @@ defaults:
       layout: "course_page"
 
 prose:
-  media: img/Kitchwa.png
+  media: img/
   ignore:
     - /_includes
     - /_layouts
@@ -30,6 +30,6 @@ prose:
 # Set some personal styles and logo for your course
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#58D7CB"
-jumbotron_image: "img/jumbotron-image.svg"
+jumbotron_image: "img/Kichwa.png"
 # jumbotron_mask: "img/jumbotron-mask.svg"
 jumbotron_icon: "img/box-icon.png"
