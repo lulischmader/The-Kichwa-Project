@@ -3,8 +3,8 @@ layout: index
 published: true
 ---
 # Kichwata yachakushun
-## Aprendamos Kichwa
-## Let's lean Kichwa
+### Aprendamos Kichwa
+### Let's learn Kichwa
 
 This project aims to promote the Kichwa language and culture by offering free resources available on the internet that people can find and learn in a self-taught way. Compiling texts, videos, and other relevant materials favors the student because all the material can be found in one place.
 
