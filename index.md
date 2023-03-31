@@ -2,7 +2,8 @@
 layout: index
 published: true
 ---
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
+This project aims to promote the Kichwa language and culture by offering free resources available on the internet that people can find and learn in a self-taught way. Compiling texts, videos, and other relevant materials favors the student because all the material can be found in one place.
+
 * **[About](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
 * **[Courses](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
 * **[Resources](/modules/customize/favicon)** - Add some (optional) finishing touches
