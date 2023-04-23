@@ -18,7 +18,7 @@ excerpt:
 ---
 Here are the works that have inspired this project. I take them as a starting point that will grow as my research and knowledge of the digital humanities grows. In this selection the public will be able to find a variety of works. From tutorials describing the steps to use HTML, CCS, essays on Digital Humanities, Ideologies of language to Kichwa teaching books.
 
-# Bibliography
+### Bibliography
 Here's the bibliography formatted in markdown language:
 
 - Asimbaya Guanopatín, Blanca, object and Soria Caiza, Nathaly. “Aplicación Web Para El Aprendizaje Del Idioma Kichwa.” core.ac.uk, https://core.ac.uk/reader/287339304. Accessed 22 Apr. 2023.
