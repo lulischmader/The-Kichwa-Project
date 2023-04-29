@@ -5,20 +5,25 @@ published: true
 
 <div class="row">
   <div class="col-md-4">
-    <img src="https://github.com/lulischmader/The-Kichwa-Project/blob/gh-pages/img/Photo_logo.png" alt="The Kichwa Project Logo">
+    <img src="https://raw.githubusercontent.com/lulischmader/The-Kichwa-Project/gh-pages/img/Photo_logo.png" alt="The Kichwa Project Logo">
   </div>
   <div class="col-md-8">
     <div class="content">
-      <h2>The Kichwa Project</h2>
+      <h2>Kichwata yachakushun</h2>
+      <h3>Aprendamos Kichwa</h3>
+      <h3>Let's learn Kichwa</3>
+      
       <p>This project aims to promote the Kichwa language and culture by offering free resources available on the internet that people can find and learn in a self-taught way. Compiling texts, videos, and other relevant materials favors the student because all the material can be found in one place.</p>
     </div>
   </div>
 </div>
 
+<style>
 .col-md-4 {
   border-right: 1px solid #ccc;
   padding-right: 20px;
 }
+</style>
 
 
 * **[About](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
