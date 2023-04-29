@@ -16,12 +16,22 @@ published: true
     </div>
   </div>
 </div>
+
 <style>
 .col-md-4 {
   border-right: 1px solid #ccc;
   padding-right: 20px;
 }
+
+@media (max-width: 767px) {
+  .col-md-4 {
+    border-right: none;
+    padding-right: 0;
+    margin-bottom: 20px;
+ 
+ }
 </style>
+```
 
 * [About](/modules/setup/getting-started/) - Get your instance of Course-in-a-Box up and running
 * [Courses](/modules/content/markdown-and-media) - Update the course structure and add your copy & media
