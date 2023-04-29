@@ -8,11 +8,6 @@ published: true
 
 This project aims to promote the Kichwa language and culture by offering free resources available on the internet that people can find and learn in a self-taught way. Compiling texts, videos, and other relevant materials favors the student because all the material can be found in one place.
 
-* **[About](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Courses](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Resources](/modules/customize/favicon)** - Add some (optional) finishing touches
-* **[Contact](/modules/customize/favicon)** - Add some (optional) finishing touches
-
 ### Bibliography
 Here are the works that have inspired this project. I take them as a starting point that will grow as my research and knowledge of the digital humanities grows. In this selection the public will be able to find a variety of works. From tutorials describing the steps to use HTML, CCS, essays on Digital Humanities, Ideologies of language to Kichwa teaching books.
 
