@@ -1,3 +1,13 @@
+## Resources
+>In addition to the learning materials, The Kichwa Project also provides a variety of resources to support learners. These resources include:
+
+    - A Kichwa-English dictionary
+    - A community forum for asking questions and getting help
+    - Language exchange groups to practice Kichwa with other learners
+    - Cultural resources to learn about Kichwa culture and history
+
+>The resources are designed to complement the language courses and provide learners with additional support and opportunities to practice their skills.
+
 ## Bibliography
 
 >Here are the works that have inspired this project. I take them as a starting point that will grow as my research and knowledge of the digital humanities grows. In this selection the public will be able to find a variety of works. From tutorials describing the steps to use HTML, CCS, essays on Digital Humanities, Ideologies of language to Kichwa teaching books.
