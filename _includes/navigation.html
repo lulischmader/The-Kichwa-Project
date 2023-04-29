@@ -7,20 +7,22 @@
   </button>
 
   <div class="navbar-collapse collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav">
+    <ul class="navbar-nav mr-auto">
       {% for module in site.data.course.modules %}
-       {% assign first_post = site.categories[module]|reverse|first %}
-       <li class="nav-item py-2{% if page.categories[1] == module %} active{% endif %}">
-         <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">
-           {{ module }}
-         </a>
-       </li>
+        {% assign first_post = site.categories[module] | reverse | first %}
+        <li class="nav-item py-2{% if page.categories[1] == module %} active{% endif %}">
+          <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">{{ module }}</a>
+        </li>
       {% endfor %}
-<!--
-      <li class="nav-item py-2">
-        <a class="nav-link" href="https://www.p2pu.org/en/" target="_blank">Example Link</a>
+      <li class="nav-item py-2{% if page.title == 'Learning' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/learning/">Learning</a>
       </li>
--->
+      <li class="nav-item py-2{% if page.title == 'Resources' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/resources/">Resources</a>
+      </li>
+      <li class="nav-item py-2{% if page.title == 'Contact' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/contact/">Contact</a>
+      </li>
     </ul>
   </div>
 </nav>
