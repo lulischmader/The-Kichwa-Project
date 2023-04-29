@@ -12,12 +12,10 @@ published: true
       <h2>Kichwata yachakushun</h2>
       <h3>Aprendamos Kichwa</h3>
       <h3>Let's learn Kichwa</3>
-      
-      <p>This project aims to promote the Kichwa language and culture by offering free resources available on the internet that people can find and learn in a self-taught way. Compiling texts, videos, and other relevant materials favors the student because all the material can be found in one place.</p>
+            <p>This project aims to promote the Kichwa language and culture by offering free resources available on the internet that people can find and learn in a self-taught way. Compiling texts, videos, and other relevant materials favors the student because all the material can be found in one place.</p>
     </div>
   </div>
 </div>
-
 <style>
 .col-md-4 {
   border-right: 1px solid #ccc;
