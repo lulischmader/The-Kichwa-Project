@@ -9,7 +9,9 @@ published: true
  <h2>Let's learn Kichwa<h2>
 </center>
 
+   <center>
 <img src="img/Photo_logo.png" alt="The Kichwa Project Logo" width="400">
+   </center>
 
 Kichwa is a Quechuan language spoken by the indigenous peoples of the Andes, mainly in Ecuador, Peru, Bolivia, and Colombia. This project aims to promote the Kichwa language and culture by offering free resources available on the internet that people can find and learn in a self-taught way. Compiling texts, videos, and other relevant materials favors the student because all the material can be found in one place.
 
