@@ -4,9 +4,9 @@ published: true
 ---
 
 <center>
-# Kichwata yachakushun
-## Aprendamos Kichwa
-## Let's learn Kichwa
+  <h1>Kichwata yachakushun</h1>
+  <h2>Aprendamos Kichwa</h2>
+ <h2>Let's learn Kichwa<h2>
 </center>
 
 <img src="img/Photo_logo.png" alt="The Kichwa Project Logo" width="400">
