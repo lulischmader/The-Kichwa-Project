@@ -2,12 +2,12 @@
 layout: index
 published: true
 ---
-# Kichwata yachakushun
+# Kichwata Yachakushun
 ## Aprendamos Kichwa
 ## Let's learn Kichwa
 
 <div style="text-align:center;">
-  <img src="/images/Photo_logo.png" alt="Photo logo" style="border-radius:50%;">
+  <img src="/images/Photo_logo.png" alt="Photo logo" style="border-radius:50%; width: 200px;">
 </div>
 
 
