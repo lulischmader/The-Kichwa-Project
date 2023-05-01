@@ -2,9 +2,9 @@
 layout: index
 published: true
 ---
-<center># Kichwata Yachakushun</center>
-<center>## Aprendamos Kichwa</center>
-<center>## Let's learn Kichwa</center>
+<center>#<strong>Kichwata Yachakushun</strong></center>
+<center>##<strong>Aprendamos Kichwa</strong></center>
+<center>##<strong>Let's learn Kichwa</strong></center>
 
 <div style="text-align:center;">
   <img src="/images/Photo_logo.png" alt="Photo logo" style="border-radius:50%; width: 200px;">
