@@ -1,5 +1,9 @@
-# Kichwata Yachakushun
+---
+layout: index
+published: true
+---
 
+# Kichwata Yachakushun
 ## Aprendamos Kichwa
 ## Let's learn Kichwa
 
@@ -12,4 +16,4 @@ found in one place.
 * **[Resources](modules/resources/_posts/2023-04-29-info.md)**
 * **[Contact](modules/contact/_posts/2023-04-29-info.md)**
 
-   
+  
