@@ -12,3 +12,5 @@ resources/_posts/2023-04-29-info.md
 
 ## Contact
 contact/_posts/2023-04-29-info.md
+
+## Bibliography
