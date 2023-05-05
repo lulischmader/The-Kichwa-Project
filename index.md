@@ -16,6 +16,7 @@ found in one place.
 
 * **[Learning](modules/learning/_posts/2023-04-29-info.md)**
 * **[Resources](modules/resources/_posts/2023-04-29-info.md)**
+* **[Bibliography](modules/bibliography/_posts)**
 * **[Contact](modules/contact/_posts/2023-04-29-info.md)**
 
   
