@@ -17,6 +17,16 @@ defaults:
     values:
       layout: "course_page"
 
+navbar:
+  - title: Learning
+    url: /learning/
+  - title: Resources
+    url: /resources/
+  - title: Bibliography
+    url: /bibliography/
+  - title: Contact
+    url: /contact/
+
 prose:
   media: img/
   ignore:
