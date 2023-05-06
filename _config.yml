@@ -24,13 +24,13 @@ defaults:
 
 navbar:
   - title: Learning
-    url: /learning/
+    url: /modules/learning/_posts/2023-04-29-info.md
   - title: Resources
-    url: /resources/
+    url: /modules/resources/_posts/2023-04-29-info.md
   - title: Bibliography
-    url: /bibliography/
+    url: /modules/bibliography/_posts/2023-05-05-info.md
   - title: Contact
-    url: /contact/
+    url: /modules/contact/_posts/2023-04-29-info.md
 
 prose:
   media: img/
