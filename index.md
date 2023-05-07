@@ -2,7 +2,6 @@
 layout: index
 published: true
 ---
-
 # Kichwata Yachakushun
 ## Aprendamos Kichwa
 ## Let's learn Kichwa
