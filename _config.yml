@@ -24,13 +24,13 @@ defaults:
 
 navbar:
   - title: Learning
-    url: /modules/learning/_posts/2023-04-29-info.md
+    url: https://lulischmader.github.io/The-Kichwa-Project/modules/learning/info/
   - title: Resources
-    url: /modules/resources/_posts/2023-04-29-info.md
+    url: https://lulischmader.github.io/The-Kichwa-Project/modules/resources/info/
   - title: Bibliography
     url: https://lulischmader.github.io/The-Kichwa-Project/modules/bibliography/info/
   - title: Contact
-    url: /modules/contact/_posts/2023-04-29-info.md
+    url: https://lulischmader.github.io/The-Kichwa-Project/modules/contact/info/
 
 prose:
   media: img/
