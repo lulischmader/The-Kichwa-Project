@@ -1,22 +1,21 @@
 <!-- Navigation -->
-<nav class="navbar navbar-expand-md py-0 .navbar-dark bg-dark text-light">
+<nav class="navbar navbar-expand-md py-0 navbar-dark bg-dark text-light">
   <a class="navbar-brand" href="{{site.baseurl}}/"><i class="fa fa-home"></i></a>
 
-   <!-- Mobile menu button -->
+  <!-- Mobile menu button -->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
- 
-  <div class="navbar-collapse collapse" id="navbarSupportedContent">
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       {% for module in site.data.course.modules %}
         {% assign first_post = site.categories[module]|reverse|first %}
-        <li class="nav-item py-2{% if page.categories[1] == module %} active{% endif %}">
-          <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">
-            {{ module }}
-          </a>
+        <li class="nav-item{% if page.categories[1] == module %} active{% endif %}">
+          <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">{{ module }}</a>
         </li>
       {% endfor %}
+ 
       <li class="nav-item py-2{% if page.url == '/learning/' %} active{% endif %}">
         <a class="nav-link" href="https://lulischmader.github.io/The-Kichwa-Project/modules/learning/info/">Learning</a>
       </li>
