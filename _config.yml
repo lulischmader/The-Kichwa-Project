@@ -28,7 +28,7 @@ navbar:
   - title: Resources
     url: /modules/resources/_posts/2023-04-29-info.md
   - title: Bibliography
-    url: /modules/bibliography/_posts/2023-05-05-info.md
+    url: https://lulischmader.github.io/The-Kichwa-Project/modules/bibliography/_posts/2023-05-05-info.md
   - title: Contact
     url: /modules/contact/_posts/2023-04-29-info.md
 
