@@ -1,17 +1,10 @@
-# The-Kichwa-Project
+title: The Kichwa Project
+description: An open-source project to learn Kichwa in a self-taught way.
+modules:
+  - learning
+  - resources
+  - bibliography
+  - contact
 
-An open-source project to learn Kichwa in a self-taught way. Built by P2PU.
-
-## Navigation
-- title: Modules
-  url: /The-Kichwa-Project/modules/
-- title: Learning
-  url: /The-Kichwa-Project/modules/learning/
-- title: Resources
-  url: /The-Kichwa-Project/modules/resources/
-- title: Bibliography
-  url: /The-Kichwa-Project/modules/bibliography/
-- title: Contact
-  url: /The-Kichwa-Project/modules/contact/
 
 
