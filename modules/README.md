@@ -1,16 +1,14 @@
 ## Modules
-- [Learning](#learning)
-- [Resources](#resources)
-- [Contact](#contact)
-- [Bibliography](# bibliography)
 
-## Learning
-learning/_posts/2023-04-29-info.md
+The following learning modules are available:
 
-## Resources
-resources/_posts/2023-04-29-info.md
+- [Kichwa Class 1](/modules/2025-01-01-kichwa-class-1/)
 
-## Contact
-contact/_posts/2023-04-29-info.md
+## Additional Resources
 
-## Bibliography
+These sections provide supporting materials and information:
+
+- [Learning](/modules/learning/)
+- [Resources](/modules/resources/)
+- [Contact](/modules/contact/)
+- [Bibliography](/modules/bibliography/)
