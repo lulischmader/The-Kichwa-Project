@@ -1,6 +1,6 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md py-0 .navbar-dark bg-dark text-light">
-  <a class="navbar-brand" href="{{site.baseurl}}/"><i class="fa fa-home"></i></a>
+  <a class="navbar-brand" href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fa fa-bars"></i>
@@ -8,26 +8,33 @@
 
   <div class="navbar-collapse collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      {% for module in site.data.course.modules %}
-        {% assign first_post = site.categories[module]|reverse|first %}
-        <li class="nav-item py-2{% if page.categories[1] == module %} active{% endif %}">
-          <a class="nav-link" href="{{ site.baseurl }}{{ first_post.url }}">
-            {{ module }}
-          </a>
-        </li>
-      {% endfor %}
-      <li class="nav-item py-2{% if page.url == '/learning/' %} active{% endif %}">
-        <a class="nav-link" href="https://lulischmader.github.io/The-Kichwa-Project/modules/learning/info/">Learning</a>
+
+      <!-- Modules tab -->
+      <li class="nav-item py-2{% if page.url == '/modules/' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/modules/">Modules</a>
       </li>
-      <li class="nav-item py-2{% if page.url == '/resources/' %} active{% endif %}">
-        <a class="nav-link" href="https://lulischmader.github.io/The-Kichwa-Project/modules/resources/info/">Resources</a>
+
+      <!-- Learning tab -->
+      <li class="nav-item py-2{% if page.url contains '/modules/learning/' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/modules/learning/info/">Learning</a>
       </li>
-      <li class="nav-item py-2{% if page.url == '/bibliography/' %} active{% endif %}">
-        <a class="nav-link" href="https://lulischmader.github.io/The-Kichwa-Project/modules/bibliography/info/">Bibliography</a>
+
+      <!-- Resources tab -->
+      <li class="nav-item py-2{% if page.url contains '/modules/resources/' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/modules/resources/info/">Resources</a>
       </li>
-      <li class="nav-item py-2{% if page.url == '/contact/' %} active{% endif %}">
-        <a class="nav-link" href="https://lulischmader.github.io/The-Kichwa-Project/modules/contact/info/">Contact</a>
+
+      <!-- Bibliography tab -->
+      <li class="nav-item py-2{% if page.url contains '/modules/bibliography/' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/modules/bibliography/info/">Bibliography</a>
       </li>
+
+      <!-- Contact tab -->
+      <li class="nav-item py-2{% if page.url contains '/modules/contact/' %} active{% endif %}">
+        <a class="nav-link" href="{{ site.baseurl }}/modules/contact/info/">Contact</a>
+      </li>
+
     </ul>
   </div>
 </nav>
+
